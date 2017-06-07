@@ -19,7 +19,8 @@ import Foundation
  Make use of your test plan and algorithm to ensure your code is complete.
  
  */
-var inputToProcess : String = ""
+var inputToProcess = [Int]()
+//var prompts =
 
 // Loop until valid input is received
 while inputToProcess == "" {
